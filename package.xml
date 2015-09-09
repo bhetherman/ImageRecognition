@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<package>
+  <name>ImageRecognizer</name>
+  <version>0.0.1</version>
+  <description>The ImageRecognizer package</description>
+
+  <maintainer email="bhetherman@wpi.edu">bhetherman</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>actionlib</build_depend>
+  <build_depend>actionlib_msgs</build_depend>
+  <build_depend>cv_bridge</build_depend>
+  <build_depend>graspdb</build_depend>
+  <build_depend>pcl_conversions</build_depend>
+  <build_depend>pcl_ros</build_depend>
+  <build_depend>rail_manipulation_msgs</build_depend>
+  <build_depend>rail_pick_and_place_msgs</build_depend>
+  <build_depend>rail_segmentation</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>roslib</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>std_srvs</build_depend>
+  <run_depend>actionlib</run_depend>
+  <run_depend>actionlib_msgs</run_depend>
+  <run_depend>cv_bridge</run_depend>
+  <run_depend>graspdb</run_depend>
+  <run_depend>pcl_conversions</run_depend>
+  <run_depend>pcl_ros</run_depend>
+  <run_depend>rail_manipulation_msgs</run_depend>
+  <run_depend>rail_pick_and_place_msgs</run_depend>
+  <run_depend>rail_segmentation</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>roslib</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>std_srvs</run_depend>
+
+  <export>
+  </export>
+</package>
